@@ -1,0 +1,38 @@
+﻿  EasyGo2.0.cpp
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(59,48): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(159,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(162,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(164,69): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(167,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(169,71): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(172,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(181,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(182,75): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(183,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(184,76): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(226,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(228,51): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(230,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(231,94): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(239,62): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(360,79): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(361,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(362,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(366,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(368,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(373,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(374,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(375,86): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(379,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(381,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(386,81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(387,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(388,74): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(392,84): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(394,110): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\EasyGo2.0.cpp(614,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  EasyGo2.0.vcxproj -> C:\Users\Shan\Desktop\Git\my-repository\EasyGo2.0\x64\Release\EasyGo2.0.exe
